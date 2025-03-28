@@ -1,0 +1,18 @@
+Open VS Code.
+
+Press Ctrl + Shift + P to open the Command Palette.
+
+Type: "Shell Command: Install 'code' command in PATH"
+
+Select it and restart Git Bash.fguuhhhjb jhgfxchjvcxx
+
+3. Manually Open the File in VS Code
+If code doesn’t work, you can open the file manually:
+
+Open VS Code.
+
+Go to File > Open File....
+
+Navigate to your project folder and select chapter1.txt.
+
+I am enjoying this
