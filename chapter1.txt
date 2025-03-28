@@ -12,3 +12,4 @@ git commit -m  "adding a commit message"
 
 git log     to see the commit
 
+git diff     chapter1.txt      to see the different
