@@ -13,3 +13,14 @@ git commit -m  "adding a commit message"
 git log     to see the commit
 
 git diff     chapter1.txt      to see the different
+
+
+now creating a remote repository
+
+git remote add origin  https://github.com/Modsontech45/story.git
+
+now : git push -u origin main
+
+git branch alien-plot
+
+ git checkout alien-plot ''''' switch to this '''
