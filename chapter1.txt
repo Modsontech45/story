@@ -1,0 +1,14 @@
+hello everyone
+git init
+
+ls - a
+
+git status  .... to see the untrack files
+
+git add .      to add the new file
+
+
+git commit -m  "adding a commit message"
+
+git log     to see the commit
+
